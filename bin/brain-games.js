@@ -2,4 +2,5 @@
 
 import askUserName from "../src/cli.js";
 
-askUserName ();
+/* старт игры */
+askUserName();
