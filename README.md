@@ -16,10 +16,10 @@
 
 # Игры
 
-Brain Even (определение четного числа)
-Brain Calc
-Brain GCD
-Brain Progression
+Brain Even (определение четного числа),
+Brain Calc,
+Brain GCD,
+Brain Progression,
 Brain Prime
 
 #### Brain Even (определение четного числа)
