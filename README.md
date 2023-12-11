@@ -44,12 +44,6 @@ make link
 
 # Игры
 
-Brain Even (определение четного числа),
-Brain Calc,
-Brain GCD,
-Brain Progression,
-Brain Prime
-
 #### Brain Even (определение четного числа)
 
 Команда для запуска: `brain-even`
