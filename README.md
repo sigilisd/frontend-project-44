@@ -49,3 +49,9 @@ make link
 Команда для запуска: `brain-even`
 
 [![asciicast](https://asciinema.org/a/9yGhJvHZsZ0MOqfxxhrVk0tpA.svg)](https://asciinema.org/a/9yGhJvHZsZ0MOqfxxhrVk0tpA)
+
+#### Brain Calc (калькулятор)
+
+Команда для запуска: `brain-calc`
+
+[![asciicast](https://asciinema.org/a/iFsf1FcrlisHDv6ThEcmJdGaJ.svg)](https://asciinema.org/a/iFsf1FcrlisHDv6ThEcmJdGaJ)
