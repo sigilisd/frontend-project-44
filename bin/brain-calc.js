@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// Программа игры "Проверка на четность"
+// Программа игры "Калькулятор"
 import startCalcGame from '../src/brain-calc.js';
 
 // Старт игры

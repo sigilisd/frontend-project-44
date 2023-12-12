@@ -35,4 +35,5 @@ const gameCalc = () => {
   };
 };
 
+// функция запуска игры
 export default () => game(rule, gameCalc);

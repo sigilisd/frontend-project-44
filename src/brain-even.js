@@ -10,7 +10,7 @@ const maxValue = 25;
 const isEven = (num) => num % 2 === 0;
 
 // основная функция
-const getGameOptions = () => {
+const getEven = () => {
   // получаем рандом число
   const randomNumber = getRandomNumber(minValue, maxValue);
 
@@ -26,4 +26,4 @@ const getGameOptions = () => {
 };
 
 // функция запуска игры
-export default () => game(rule, getGameOptions);
+export default () => game(rule, getEven);
