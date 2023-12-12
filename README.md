@@ -55,3 +55,9 @@ make link
 Команда для запуска: `brain-calc`
 
 [![asciicast](https://asciinema.org/a/iFsf1FcrlisHDv6ThEcmJdGaJ.svg)](https://asciinema.org/a/iFsf1FcrlisHDv6ThEcmJdGaJ)
+
+#### Brain Gcd (НОД)
+
+Команда для запуска: `brain-gcd`
+
+[![asciicast](https://asciinema.org/a/EIKBY8p5nEvFL1nUQNfcgEa7q.svg)](https://asciinema.org/a/EIKBY8p5nEvFL1nUQNfcgEa7q)
