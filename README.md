@@ -7,20 +7,42 @@
 Команды, с помощью которых вызываются игры:
 
 ```bash
->> brain-even
->> braic-calc
->> brain-gcd
->> brain-progression
->> brain-prime
+brain-even
+braic-calc
+brain-gcd
+brain-progression
+brain-prime
 ```
 
-# Игры
+## Установка
 
-Brain Even (определение четного числа)
-Brain Calc
-Brain GCD
-Brain Progression
-Brain Prime
+```
+Перед установкой проекта проверьте наличие установленных Node.js, npm!
+```
+
+Для запуска имеющихся игр необходимо предварительно установить данный проект:
+
+1. Склонируйте репозиторий использую следующую консольную команду:
+
+```bash
+https://github.com/sigilisd/frontend-project-44.git
+```
+
+2. Осуществите установку проекта:
+
+```bash
+make install
+```
+
+3. Осуществите symlink проекта:
+
+```bash
+make link
+```
+
+4. Запустите любую из игр посредством команд указанных выше
+
+# Игры
 
 #### Brain Even (определение четного числа)
 
