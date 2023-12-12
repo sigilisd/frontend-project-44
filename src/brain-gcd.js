@@ -2,7 +2,7 @@ import game from './index.js';
 import getRandomNumber from './utils.js';
 
 // вспомогательные переменные
-const rule = 'Find the greatest common divisor of given numbers.\n';
+const rule = 'Find the greatest common divisor of given numbers.';
 
 const minValue = 1;
 const maxValue = 50;
