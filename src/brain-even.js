@@ -1,4 +1,4 @@
-import game from './engine.js';
+import game from './index.js';
 import getRandomNumber from './utils.js';
 
 // вспомогательные переменные
