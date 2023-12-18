@@ -2,6 +2,7 @@ import game from './index.js';
 import getRandomNumber from './utils.js';
 
 // вспомогательные переменные
+console.log('/What number is missing in the progression?/');
 const rule = 'What number is missing in this progression?';
 
 const minValue = 0;
