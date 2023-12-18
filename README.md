@@ -61,3 +61,9 @@ make link
 Команда для запуска: `brain-gcd`
 
 [![asciicast](https://asciinema.org/a/EIKBY8p5nEvFL1nUQNfcgEa7q.svg)](https://asciinema.org/a/EIKBY8p5nEvFL1nUQNfcgEa7q)
+
+#### Brain Progression (Арифметическая прогрессия)
+
+Команда для запуска: `brain-progression`
+
+[![asciicast](https://asciinema.org/a/2Z8YTm8NrkSlJCjxfShavhKDZ.svg)](https://asciinema.org/a/2Z8YTm8NrkSlJCjxfShavhKDZ)
