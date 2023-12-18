@@ -2,6 +2,9 @@
 [![Actions Status](https://github.com/sigilisd/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/sigilisd/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/418e8fc5cd622487d206/maintainability)](https://codeclimate.com/github/sigilisd/frontend-project-44/maintainability)
 
+# Описание 
+
+«Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново.
 # Игры разума
 
 Команды, с помощью которых вызываются игры:
@@ -67,3 +70,53 @@ make link
 Команда для запуска: `brain-progression`
 
 [![asciicast](https://asciinema.org/a/2Z8YTm8NrkSlJCjxfShavhKDZ.svg)](https://asciinema.org/a/2Z8YTm8NrkSlJCjxfShavhKDZ)
+
+#### Brain Prime (Простое ли число?)
+
+Команда для запуска: `brain-prime`
+
+[![asciicast](https://asciinema.org/a/zBNpKG9kKkQkOCIwtkeKqa3aI.svg)](https://asciinema.org/a/zBNpKG9kKkQkOCIwtkeKqa3aI)
+
+## Структура проекта
+
+```bash
+.
+├── .eslintrc.yml
+├── .github
+│   └── workflows
+│       ├── README.md
+│       └── hexlet-check.yml
+├── .gitignore
+├── Makefile
+├── package-lock.json
+├── package.json
+├── README.md
+├── bin
+│   ├── brain-calc.js
+│   ├── brain-even.js
+│   ├── brain-games.js
+│   ├── brain-gcd.js
+│   ├── brain-prime.js
+│   └── brain-progression.js
+└── src
+    ├── brain-calc.js
+    ├── brain-even.js
+    ├── brain-gcd.js
+    ├── brain-prime.js
+    ├── brain-progression.js
+    ├── cli.js
+    ├── index.js
+    └── utils.js
+```
+
+
+## Дополнительные команды
+
+Полезные команды, которые доступны для использования в проекте.
+
+<dl>
+    <dt><code>make publish</code></dt>
+    <dd>Публикация проекта с флагом <code>--dry-run</code></dd>
+    <dt><code>make lint</code></dt>
+    <dd>Проверка кода проекта линтером ESLint.</dd>
+</dl>
